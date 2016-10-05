@@ -23,26 +23,26 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Arturo Cardenas',
-    company: 'Data Scientist',
+    //company: 'Data Scientist',
     //gplus: 'http://plus.google.com/1234567890',
     //twitter: '@arturocm',
     // www: 'http:/arturocm.github.io',
     // github: 'http://github.com/arturocm'
   },{
     name: 'Alejandra Burrola',
-    company: 'Data Scientist',
+    //company: 'Data Scientist',
     //twitter: '@yourhandle',
     //www: 'http://www.you.com',
     //github: 'http://github.com/you'
   },{
     name: 'José Ayala',
-    company: 'Data Scientist',
+    //company: 'Data Scientist',
     //twitter: '@yourhandle',
     //www: 'http://www.you.com',
     //github: 'http://github.com/yous'
   },{
     name:'',
-    company:'',
+    //company:'',
   }]
 };
 
