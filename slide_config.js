@@ -4,7 +4,7 @@ var SLIDE_CONFIG = {
     title: 'Data Science',
     subtitle: 'Introducción',
     eventInfo: {
-      title: 'Intro',
+      title: 'V1.0',
       date: 'Octubre, 2016'
     },
     useBuilds: true, // Default: true. False will turn off slide animation builds.
@@ -23,26 +23,29 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Arturo Cardenas',
-    //company: 'Data Scientist',
+    company: 'Data Scientist'
     //gplus: 'http://plus.google.com/1234567890',
     //twitter: '@arturocm',
     // www: 'http:/arturocm.github.io',
     // github: 'http://github.com/arturocm'
   },{
     name: 'Alejandra Burrola',
-    //company: 'Data Scientist',
+    company: 'Advance Analytics Sr. Consulant'
     //twitter: '@yourhandle',
     //www: 'http://www.you.com',
     //github: 'http://github.com/you'
   },{
     name: 'José Ayala',
-    //company: 'Data Scientist',
+    company: 'BI & Data Engineer'
     //twitter: '@yourhandle',
     //www: 'http://www.you.com',
     //github: 'http://github.com/yous'
   },{
-    name:'',
-    //company:'',
+    name: '.',
+    company: '.'
+    //twitter: '@yourhandle',
+    //www: 'http://www.you.com',
+    //github: 'http://github.com/yous'
   }]
 };
 
