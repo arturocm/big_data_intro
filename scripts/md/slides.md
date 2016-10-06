@@ -2,23 +2,23 @@ title: Agenda
 class: after
 
 - Innovación en Tecnología de Información
-- ¿Qué es Data Science?
-- Componentes de Data Science
-- Solución Tradicional vs Nueva Propuesta
-- Tipos de Soluciones en Data Science
+- Data Science
+	- ¿Qué es?
+	- ¿Qúe hace?
+- Tipos de Soluciones
 - Tipos de Proyectos
 - Acerca de nosotros
 
 ---
 
-title: Innovación en Tecnología de Información
-subtitle: ¿Por qué es importante?
+title: Innovación en TI
+subtitle: Una herramienta infalible
 class: segue dataday nobackground
 
 ---
-title: Innovación en Tecnología de Información
+title: Innovación en TI
 
-- La innovación tecnológica es el conjunto de actividades científicas, tecnológicas, financieras y comerciales que permiten introducir nuevos o mejorados servicios, productos, procesos, técnicas y/o sistemas organizacionales.
+- La innovación tecnológica es el conjunto de actividades <b>científicas, tecnológicas, financieras y comerciales</b> que permiten introducir nuevos o mejorados servicios, productos, procesos, técnicas y/o sistemas organizacionales.
 
 - Para poder innovar es necesario considerar cambios en los sistemas tecnológicos así también como cambios en los paradigmas tecnológicos.
 
@@ -28,22 +28,23 @@ title: Innovación en Tecnología de Información
 	- Mejorar la calidad de sus servicios o productos
 ---
 
-title: Innovación en Tecnología de Información
+title: Innovación en TI
 
 - <b>Resultados esperados</b>:
 	- Desarrollo de nuevos productos
 	- Implementación de nuevos procesos o sistemas
-
 - <b>Indicadores de ÉXITO</b>:
 	- Rentabilidad económica y financiera de la inversión
 	- Crecimiento de las ventas
-
 - <b>Requerimientos críticos</b>: 
 	- Identificación de las necesidades del negocio
 	- Capacidad de gestión tecnológica de la organización
+---
+title: Data Science
+subtitle: ¿Qué es? y ¿Qué hace?
+class: segue dataday nobackground
 
 ---
-
 class: dark quote nobackground
 
 <aside class="gdbar right bottom"><img src="images/logos/logo_square.png"></aside>
@@ -57,11 +58,6 @@ Principal Data Scientist <br>
 IBM Corp.
 </div>
 </article>
-
----
-title: Componentes de Data Science
-subtitle: Solución Tradicional vs Nueva Propuesta
-class: segue dataday nobackground
 
 ---
 title: <img src="images/proceso/all_small.png" alt="all_stages" style="width:300px">
@@ -109,7 +105,7 @@ Conectarse a data estructurada y no-estrucutrada:
 - Muestreo, encuestas, etc. 
 
 ---
-title: <img src="images/proceso/1.png" alt="Mountain View" style="width:300px"> Recolección (ejemplos)
+title: <img src="images/proceso/1.png" alt="Mountain View" style="width:300px"> Recolección (Cont...)
 
 <div class="container-fluid"> 
 	<div class="col-md-5">
@@ -148,7 +144,7 @@ Recolectar, integrar y administrar datos históricos:
 - Resilient Distributed Datasets (RDD) 
 - Cloud Services
 ---
-title: <img src="images/proceso/2.png" alt="Mountain View" style="width:300px"> Almacenamiento
+title: <img src="images/proceso/2.png" alt="Mountain View" style="width:300px"> Almacenamiento (Cont...)
 
 <div class="container-fluid"> 
 	<div class="col-md-3">
@@ -193,7 +189,7 @@ Ejecución de Análisis <b>descritivos</b> y <b>predictivos</b> por medio de lib
 - Machine Learning
 
 ---
-title: <img src="images/proceso/5.png" alt="Mountain View" style="width:300px"> Análisis
+title: <img src="images/proceso/4.png" alt="Mountain View" style="width:300px"> Análisis (Cont...)
 
 <div class="container-fluid"> 
 	<div class="col-md-5">
@@ -224,7 +220,16 @@ title: <img src="images/proceso/5.png" alt="Mountain View" style="width:300px"> 
 	</div>
 </div>
 ---
-title: <img src="images/proceso/4.png" alt="Mountain View" style="width:300px"> Visualización
+title: <img src="images/proceso/5.png" alt="Mountain View" style="width:300px"> Visualización
+
+Descrubimiento de insights por medio de visualizaciones diversas y compresivas:
+
+- Visualizaciones Interactivas
+- Storytelling with data
+- Dashboards
+
+---
+title: <img src="images/proceso/5.png" alt="Mountain View" style="width:300px"> Visualización (Cont...)
 
 <div class="container-fluid"> 
 	<div class="col-md-3">
@@ -259,8 +264,109 @@ title: <img src="images/proceso/4.png" alt="Mountain View" style="width:300px"> 
 	</div>
 </div>
 ---
+title: Quien es quien en Big Data y Analytics (2016)
+
+<div class="col-md-1">
+</div>
+<div class="col-md-10">
+<img class="img-responsive" src="images/pipeline/bdlandscape.png" alt="BD Landscae">
+</div>
+<div class="col-md-1">
+</div>
+---
+
+title: Tipos de Soluciones
+class: segue dataday nobackground
+---
+title: Tipos de Soluciones
+
+<div class="col-md-1">
+</div>
+<div class="col-md-10">
+<img class="img-responsive" src="images/tipo_soluciones.png" alt="BD Landscae">
+</div>
+<div class="col-md-1">
+</div>
+---
+
+title: Tipos de Proyectos
+class: segue dataday nobackground
+---
+title: Tipos de Proyectos
+
+<div class="container-fluid"> 
+	<div class="col-md-12">
+		<table class="table table-bordered table-hover">
+			<thead>
+				<tr>
+					<th>Asesoría</th>
+					<th>Laboratorio de Datos</th>
+					<th>Piloto</th>
+					<th>Proyecto end-to-end</th>
+				</tr>
+			</thead>
+			<tbody>
+					<td>Apoyo en la definición e implementación de la estrategia de Data Science.</td>
+					<td>Asignación de recursos enfocados específicamente en estudiar los datos y proponer soluciones de Data Science.</td>
+					<td>Ensayo a escala del desarrollo de una solución. Se considera la medición de resultados para conocer su impacto</td>
+					<td>Desarrollo e Implementación de una solución de Data Science, con alcance y temporalidad definidos.</td>
+			</tbody>
+		</table>
+	</div>
+</div>
+---
+
+title: Acerca de nosotros
+class: segue dataday nobackground
+---
+title: Acerca de nosotros
+
+<div class="col-md-4">
+	<img class="img-responsive" src="images/profile/hana.jpg" alt="jana" style="width:100px">
+	<h3>Alejandra Burrola</h3>
+	<p style="font-size:16px">Alejandra ha participado en diferentes asignaciones y proyectecos con diferentes organizaciones: Intellego, FIFCO, OXXO, CustoLogix, Neoris, CEMEX, Gruma, Binbit Group, y RealComms.<br><br>
+	Ella es Lic. Actuaria egresada de la Universidad Autónoma de Guadalajara</p>
+</div>
+<div class="col-md-4">
+	<img class="img-responsive" src="images/profile/arturo.jpg" alt="arturo" style="width:100px">
+	<h3>Arturo Cárdenas</h3>
+	<p style="font-size:16px">Auto-proclamado “Data Science Late Bloomer”, cuenta con más de nueve años de experiencia combinando supply chain y analytics. <br><br>
+	En su proyecto más reciente colaboró con Procter & Gamble en Toronto, Canada para el equipo que atiende a Walmart mejorando el desempeño de cadena de suministro por medio de la analítica de datos. Arturo estudió Ingeniería Mecánica en el ITESM y cuenta con estudios de posgrado en McGill University.</p>
+</div>
+<div class="col-md-4">
+	<img class="img-responsive" src="images/profile/jose.jpg" alt="jose" style="width:100px">
+	<h3>José Ayala</h3>
+	<p style="font-size:16px">José estudio la carrera de Ingeniero Mecánico Administrador solo para darse cuenta que lo suyo era BI y la ingeniería de datos. <br><br>
+	Actualmente se desempeña como responsable del laboratorio de datos de OXXO en donde en una máquina procesa TB de información mientras que en otra desarrolla visualizaciones y dashboards.</p>
+</div>
+---
+---
+title: Empresas con las que hemos trabajado
+
+<img src="images/profile/companies/1.png" alt="a" style="width:150px">
+<img src="images/profile/companies/2.png" alt="b" style="width:150px">
+<img src="images/profile/companies/3.png" alt="c" style="width:150px">
+<img src="images/profile/companies/4.png" alt="d" style="width:150px">
+<img src="images/profile/companies/5.png" alt="e" style="width:150px">
+<img src="images/profile/companies/6.png" alt="f" style="width:150px">
+<img src="images/profile/companies/7.png" alt="g" style="width:150px">
+<img src="images/profile/companies/8.png" alt="h" style="width:150px">
+<img src="images/profile/companies/9.png" alt="i" style="width:150px">
+<img src="images/profile/companies/10.png" alt="j" style="width:150px">
+<img src="images/profile/companies/11.png" alt="k" style="width:150px">
+<img src="images/profile/companies/12.png" alt="l" style="width:150px">
+<img src="images/profile/companies/13.png" alt="m" style="width:150px">
+<img src="images/profile/companies/14.png" alt="n" style="width:150px">
+<img src="images/profile/companies/15.png" alt="o" style="width:150px">
+<img src="images/profile/companies/16.png" alt="p" style="width:150px">
+<img src="images/profile/companies/17.png" alt="q" style="width:150px">
+<img src="images/profile/companies/18.png" alt="r" style="width:150px">
+<img src="images/profile/companies/19.png" alt="s" style="width:150px">
+<img src="images/profile/companies/20.png" alt="t" style="width:150px">
+---
 
 title: Data Science
 subtitle: Q&A
 class: segue dataday nobackground
+
 
