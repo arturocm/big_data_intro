@@ -288,7 +288,42 @@ title: Tipos de Soluciones
 <div class="col-md-1">
 </div>
 ---
+title: Ejemplos de Soluciones
 
+<div class="container-fluid"> 
+	<div class="row centered">
+	<div class="col-md-3">
+		<h1>
+			<i class="fa fa-shopping-cart faa-passing animated faa-slow fa-3x"></i>
+			<br>
+			Retail
+		</h1>
+	</div>
+	<div class="col-md-3">
+		<h1>
+			<i class="fa fa-cog fa-spin fa-3x"></i>
+			<br>
+			Manufactura
+		</h1>
+	</div>
+	<div class="col-md-3">
+		<h1>
+			<i class="fa fa-bar-chart fa-3x"></i>
+			<br>
+			Finanzas
+		</h1>
+	</div>
+	<div class="col-md-3">
+		<h1>
+			<i class="fa fa-flask fa-3x"></i>
+			<br>
+			Data Science
+		</h1>
+	</div>
+	</div>
+</div>
+
+---
 title: Tipos de Proyectos
 class: segue dataday nobackground
 ---
@@ -340,7 +375,6 @@ title: Acerca de nosotros
 	Actualmente se desempeña como responsable del laboratorio de datos de OXXO en donde en una máquina procesa TB de información mientras que en otra desarrolla visualizaciones y dashboards.</p>
 </div>
 ---
----
 title: Empresas con las que hemos trabajado
 
 <img src="images/profile/companies/1.png" alt="a" style="width:150px">
@@ -363,6 +397,7 @@ title: Empresas con las que hemos trabajado
 <img src="images/profile/companies/18.png" alt="r" style="width:150px">
 <img src="images/profile/companies/19.png" alt="s" style="width:150px">
 <img src="images/profile/companies/20.png" alt="t" style="width:150px">
+<img src="images/profile/companies/21.png" alt="t" style="width:150px">
 ---
 
 title: Data Science
