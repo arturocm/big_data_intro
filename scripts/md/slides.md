@@ -293,61 +293,88 @@ title: Ejemplos de Soluciones
 <div class="container-fluid"> 
 	<div class="row centered">
 	<div class="col-md-3">
-		<h1>
+		<h2>
 			<i class="fa fa-shopping-cart faa-passing animated faa-slow fa-3x"></i>
 			<br>
 			Retail
-		</h1>
+			<br>
+		</h2>
+		<h5>
+			<ul>
+				<li>Reducción Inventarios</li>
+				<li>Rendimiento Promociones</li>
+				<li>Optimización Distribución</li>
+			</ul>
+		</h5>
 	</div>
 	<div class="col-md-3">
-		<h1>
+		<h2>
 			<i class="fa fa-cog fa-spin fa-3x"></i>
 			<br>
-			Manufactura
-		</h1>
+			Mfg
+		</h2>
 	</div>
 	<div class="col-md-3">
-		<h1>
+		<h2>
 			<i class="fa fa-bar-chart fa-3x"></i>
 			<br>
 			Finanzas
-		</h1>
+		</h2>
 	</div>
 	<div class="col-md-3">
-		<h1>
-			<i class="fa fa-flask fa-3x"></i>
+		<h2>
+			<i class="fa fa-flask faa-tada animated fa-3x"></i>
 			<br>
-			Data Science
-		</h1>
+			Investigación
+		</h2>
 	</div>
 	</div>
 </div>
-
+<div class="container-fluid"> 
+	<div class="row centered">
+	<div class="col-md-3">
+		<h2>
+			<i class="fa fa-heartbeat faa-pulse animated faa-slow fa-3x"></i>
+			<br>
+			Salud
+			<br>
+		</h2>
+	</div>
+	<div class="col-md-3">
+		<h2>
+			<i class="fa fa-thumbs-o-up faa-bounce animated fa-3x"></i>
+			<br>
+			Social Ntwk
+		</h2>
+	</div>
+	<div class="col-md-3">
+		<h2>
+			<i class="fa fa-truck fa-3x faa-passing-reverse animated faa-slow"></i>
+			<br>
+			Logística
+		</h2>
+	</div>
+	<div class="col-md-3">
+		<h2>
+			<i class="fa fa-map-o fa-3x"></i>
+			<br>
+			Urbanización
+		</h2>
+	</div>
+	</div>
+</div>
 ---
 title: Tipos de Proyectos
 class: segue dataday nobackground
 ---
 title: Tipos de Proyectos
 
-<div class="container-fluid"> 
-	<div class="col-md-12">
-		<table class="table table-bordered table-hover">
-			<thead>
-				<tr>
-					<th>Asesoría</th>
-					<th>Laboratorio de Datos</th>
-					<th>Piloto</th>
-					<th>Proyecto end-to-end</th>
-				</tr>
-			</thead>
-			<tbody>
-					<td>Apoyo en la definición e implementación de la estrategia de Data Science.</td>
-					<td>Asignación de recursos enfocados específicamente en estudiar los datos y proponer soluciones de Data Science.</td>
-					<td>Ensayo a escala del desarrollo de una solución. Se considera la medición de resultados para conocer su impacto</td>
-					<td>Desarrollo e Implementación de una solución de Data Science, con alcance y temporalidad definidos.</td>
-			</tbody>
-		</table>
-	</div>
+<div class="col-md-1">
+</div>
+<div class="col-md-10">
+<img class="img-responsive" src="images/tipo_proyectos.png" alt="BD Landscae">
+</div>
+<div class="col-md-1">
 </div>
 ---
 
