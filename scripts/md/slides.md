@@ -291,78 +291,128 @@ title: Tipos de Soluciones
 title: Ejemplos de Soluciones
 
 <div class="container-fluid"> 
-	<div class="row centered">
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-shopping-cart faa-passing animated faa-slow fa-3x"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-plane faa-float animated fa-2x"></i>
 			<br>
-			Retail
-			<br>
-		</h2>
+			Travel and Hospitality
+		</h3>
+		</div>
 		<h5>
 			<ul>
-				<li>Reducción Inventarios</li>
-				<li>Rendimiento Promociones</li>
-				<li>Optimización Distribución</li>
+				<li>Aircraft scheduling</li>
+				<li>Dynamic pricing</li>
+				<li>Social media-consumer feedback and interaction analysis</li>
+				<li>Customer complaint resolution</li>
+				<li>Traffic patterns and congestion management</li>
 			</ul>
 		</h5>
 	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-cog fa-spin fa-3x"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-heartbeat faa-pulse animated faa-slow fa-2x"></i>
 			<br>
-			Mfg
-		</h2>
+			Healthcare and Life Sciences
+			<br>
+		</h3>
+		</div>
+		<h5>
+			<ul>
+				<li>Alerts and diagnostics from real-time patient data</li>
+				<li>Disease identification and risk stratification</li>
+				<li>Patient triage optimization</li>
+				<li>Proactive health management</li>
+				<li>Healthcare provider sentiment analysis</li>
+			</ul>
+		</h5>
 	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-bar-chart fa-3x"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-wrench faa-wrench animated fa-2x"></i>
 			<br>
-			Finanzas
-		</h2>
-	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-flask faa-tada animated fa-3x"></i>
-			<br>
-			Investigación
-		</h2>
+			Energy, Feedstock, and Utilities
+		</h3>
+		</div>
+		<h5>
+			<ul>
+				<li>Power usage analytics</li>
+				<li>Seismic data processing</li>
+				<li>Carbon emission and trading</li>
+				<li>Customer-specific pricing</li>
+				<li>Smart grid management</li>
+				<li>Energy demand and supply optimization</li>
+			</ul>
+		</h5>
 	</div>
 	</div>
 </div>
 <div class="container-fluid"> 
-	<div class="row centered">
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-heartbeat faa-pulse animated faa-slow fa-3x"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-shopping-cart faa-passing animated faa-slow fa-2x"></i>
 			<br>
-			Salud
-			<br>
-		</h2>
+			Retail
+		</h3>
+		</div>
+		<h5>
+			<ul>
+				<li>Predictive inventory planning</li>
+				<li>Recommendation engines</li>
+				<li>"Upsell" y "Cross-channel" Marketing</li>
+				<li>Market Segmetation and targeting</li>
+				<li>Customer ROI and lifetime value</li>
+			</ul>
+		</h5>
 	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-thumbs-o-up faa-bounce animated fa-3x"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-cog faa-spin animated fa-2x"></i>
 			<br>
-			Social Ntwk
-		</h2>
+			Manufacturing
+		</h3>
+		</div>
+		<h5>
+			<ul>
+				<li>Predictive maintenance or condition monitoring</li>
+				<li>Warranty reserve estimation</li>
+				<li>Propensity to buy</li>
+				<li>Demand forecasting</li>
+				<li>Process optimization</li>
+				<li>Telematics</li>
+			</ul>
+		</h5>
 	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-truck fa-3x faa-passing-reverse animated faa-slow"></i>
+	<div class="col-md-4">
+		<div class="row centered">
+		<h3>
+			<i class="fa fa-bar-chart fa-2x"></i>
 			<br>
-			Logística
-		</h2>
-	</div>
-	<div class="col-md-3">
-		<h2>
-			<i class="fa fa-map-o fa-3x"></i>
-			<br>
-			Urbanización
-		</h2>
+			Financial Services
+		</h3>
+		</div>
+		<h5>
+			<ul>
+				<li>Risk analytics and regulation</li>
+				<li>Customer Segmentation</li>
+				<li>Cross-selling and up-selling</li>
+				<li>Sales and marketing campaign management</li>
+				<li>Credit worthiness evaluation</li>
+			</ul>
+		</h5>
 	</div>
 	</div>
 </div>
+
+<aside class="note"> <section>
+Source:
+<br>
+<a href="http://www.tcs.com/SiteCollectionDocuments/White%20Papers/Machine-Learning-Analytics-in-Manufacturing-0714-1.pdf" target="_blank">Tata Consultancy Services, Using Big Data for Machine Learning Analytics in Manufacturing – TCS</a>
+</section></aside>
 ---
 title: Tipos de Proyectos
 class: segue dataday nobackground
@@ -404,6 +454,7 @@ title: Acerca de nosotros
 ---
 title: Empresas con las que hemos trabajado
 
+<div class="row centered">
 <img src="images/profile/companies/1.png" alt="a" style="width:150px">
 <img src="images/profile/companies/2.png" alt="b" style="width:150px">
 <img src="images/profile/companies/3.png" alt="c" style="width:150px">
@@ -425,6 +476,7 @@ title: Empresas con las que hemos trabajado
 <img src="images/profile/companies/19.png" alt="s" style="width:150px">
 <img src="images/profile/companies/20.png" alt="t" style="width:150px">
 <img src="images/profile/companies/21.png" alt="t" style="width:150px">
+</div>
 ---
 
 title: Data Science
