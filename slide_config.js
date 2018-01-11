@@ -25,22 +25,10 @@ var SLIDE_CONFIG = {
     name: 'Arturo Cardenas',
     company: 'Data Scientist'
     //gplus: 'http://plus.google.com/1234567890',
-    //twitter: '@arturocm',
-    // www: 'http:/arturocm.github.io',
-    // github: 'http://github.com/arturocm'
-  },{
-    name: 'Alejandra Burrola',
-    company: 'Advance Analytics Sr. Consulant'
-    //twitter: '@yourhandle',
-    //www: 'http://www.you.com',
-    //github: 'http://github.com/you'
-  },{
-    name: 'José Ayala',
-    company: 'BI & Data Engineer'
-    //twitter: '@yourhandle',
-    //www: 'http://www.you.com',
-    //github: 'http://github.com/yous'
-  },{
+    twitter: '@arturocm',
+    www: 'http:/arturocm.github.io',
+    github: 'http://github.com/arturocm'
+  },,{
     name: '.',
     company: '.'
     //twitter: '@yourhandle',
@@ -48,4 +36,3 @@ var SLIDE_CONFIG = {
     //github: 'http://github.com/yous'
   }]
 };
-

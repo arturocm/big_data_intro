@@ -36,7 +36,7 @@ title: Innovación en TI
 - <b>Indicadores de ÉXITO</b>:
 	- Rentabilidad económica y financiera de la inversión
 	- Crecimiento de las ventas
-- <b>Requerimientos críticos</b>: 
+- <b>Requerimientos críticos</b>:
 	- Identificación de las necesidades del negocio
 	- Capacidad de gestión tecnológica de la organización
 ---
@@ -66,7 +66,7 @@ title: <img src="images/proceso/all_small.png" alt="all_stages" style="width:300
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome-animation/0.0.8/font-awesome-animation.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-6">
 		<h1 style= "color:#1F77B4">
 			<i class="fa fa-mixcloud fa-3x"></i>
@@ -102,12 +102,12 @@ Conectarse a data estructurada y no-estrucutrada:
 	- Redes Sociales, Servicios en Línea, OAuth (Open standard for Authorization)
 - Conectores a Bases de Datos (obdc, jbdc, etc.)
 - Formatos comunes: XML, Json, csv, xlxs, ...
-- Muestreo, encuestas, etc. 
+- Muestreo, encuestas, etc.
 
 ---
 title: <img src="images/proceso/1.png" alt="Mountain View" style="width:300px"> Recolección (Cont...)
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-5">
 	<h2>Solución Tradicional</h2>
 		<img src="images/pipeline/collect/a_1.png" alt="Excel" style="width:100px">
@@ -141,12 +141,12 @@ Recolectar, integrar y administrar datos históricos:
 - Base de Datos Relacionales
 - Base de Datos No Relacionales
 - Hadoop Distributed File System (HDFS)
-- Resilient Distributed Datasets (RDD) 
+- Resilient Distributed Datasets (RDD)
 - Cloud Services
 ---
 title: <img src="images/proceso/2.png" alt="Mountain View" style="width:300px"> Almacenamiento (Cont...)
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-3">
 	<h2>Solución Tradicional</h2>
 		<img src="images/pipeline/store/a_1.png" alt="SQL Server" style="width:100px">
@@ -191,7 +191,7 @@ Ejecución de Análisis <b>descritivos</b> y <b>predictivos</b> por medio de lib
 ---
 title: <img src="images/proceso/4.png" alt="Mountain View" style="width:300px"> Análisis (Cont...)
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-5">
 	<h2>Solución Tradicional</h2>
 		<img src="images/pipeline/collect/a_1.png" alt="Excel" style="width:100px">
@@ -231,7 +231,7 @@ Descrubimiento de insights por medio de visualizaciones diversas y compresivas:
 ---
 title: <img src="images/proceso/5.png" alt="Mountain View" style="width:300px"> Visualización (Cont...)
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-3">
 	<h2>Solución Tradicional</h2>
 		<img src="images/pipeline/collect/a_1.png" alt="Excel" style="width:100px">
@@ -290,7 +290,7 @@ title: Tipos de Soluciones
 ---
 title: Ejemplos de Soluciones
 
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-4">
 		<div class="row centered">
 		<h3>
@@ -349,7 +349,7 @@ title: Ejemplos de Soluciones
 	</div>
 	</div>
 </div>
-<div class="container-fluid"> 
+<div class="container-fluid">
 	<div class="col-md-4">
 		<div class="row centered">
 		<h3>
@@ -428,28 +428,16 @@ title: Tipos de Proyectos
 </div>
 ---
 
-title: Acerca de nosotros
+title: Acerca de mi
 class: segue dataday nobackground
 ---
-title: Acerca de nosotros
+title: Acerca de mi
 
-<div class="col-md-4">
-	<img class="img-responsive" src="images/profile/hana.jpg" alt="jana" style="width:100px">
-	<h3>Alejandra Burrola</h3>
-	<p style="font-size:16px">Alejandra ha participado en diferentes asignaciones y proyectecos con diferentes organizaciones: Intellego, FIFCO, OXXO, CustoLogix, Neoris, CEMEX, Gruma, Binbit Group, y RealComms.<br><br>
-	Ella es Lic. Actuaria egresada de la Universidad Autónoma de Guadalajara</p>
-</div>
-<div class="col-md-4">
+<div class="col-md-12">
 	<img class="img-responsive" src="images/profile/arturo.jpg" alt="arturo" style="width:100px">
 	<h3>Arturo Cárdenas</h3>
 	<p style="font-size:16px">Auto-proclamado “Data Science Late Bloomer”, cuenta con más de nueve años de experiencia combinando supply chain y analytics. <br><br>
 	En su proyecto más reciente colaboró con Procter & Gamble en Toronto, Canada para el equipo que atiende a Walmart mejorando el desempeño de cadena de suministro por medio de la analítica de datos. Arturo estudió Ingeniería Mecánica en el ITESM y cuenta con estudios de posgrado en McGill University.</p>
-</div>
-<div class="col-md-4">
-	<img class="img-responsive" src="images/profile/jose.jpg" alt="jose" style="width:100px">
-	<h3>José Ayala</h3>
-	<p style="font-size:16px">José estudio la carrera de Ingeniero Mecánico Administrador solo para darse cuenta que lo suyo era BI y la ingeniería de datos. <br><br>
-	Actualmente se desempeña como responsable del laboratorio de datos de OXXO en donde en una máquina procesa TB de información mientras que en otra desarrolla visualizaciones y dashboards.</p>
 </div>
 ---
 title: Empresas con las que hemos trabajado
@@ -482,5 +470,3 @@ title: Empresas con las que hemos trabajado
 title: Data Science
 subtitle: Q&A
 class: segue dataday nobackground
-
-
