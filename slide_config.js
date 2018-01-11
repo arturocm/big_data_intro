@@ -23,7 +23,7 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Arturo Cardenas',
-    company: 'Data Scientist'
+    company: 'Data Scientist',
     //gplus: 'http://plus.google.com/1234567890',
     twitter: '@arturocm',
     www: 'http:/arturocm.github.io',
