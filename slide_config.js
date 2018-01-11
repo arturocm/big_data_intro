@@ -28,11 +28,5 @@ var SLIDE_CONFIG = {
     twitter: '@arturocm',
     www: 'http:/arturocm.github.io',
     github: 'http://github.com/arturocm'
-  },,{
-    name: '.',
-    company: '.'
-    //twitter: '@yourhandle',
-    //www: 'http://www.you.com',
-    //github: 'http://github.com/yous'
   }]
 };
