@@ -1,11 +1,11 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Data Science',
-    subtitle: 'Introducción',
+    title: 'Big Data Analytics',
+    subtitle: 'Intro',
     eventInfo: {
       title: 'V1.0',
-      date: 'Octubre, 2016'
+      date: 'Febrero, 2018'
     },
     useBuilds: true, // Default: true. False will turn off slide animation builds.
     usePrettify: true, // Default: true
@@ -23,7 +23,7 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Arturo Cardenas',
-    company: 'Data Scientist',
+    company: 'Analytics Manager eBay',
     //gplus: 'http://plus.google.com/1234567890',
     twitter: '@arturocm',
     www: 'http:/arturocm.github.io',
