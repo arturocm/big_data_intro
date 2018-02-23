@@ -1,14 +1,45 @@
 title: Agenda
 class: after
 
+- Street Cred
 - Innovación en Tecnología de Información
 - Data Science
 	- ¿Qué es?
 	- ¿Qúe hace?
 - Tipos de Soluciones
-- Tipos de Proyectos
-- Acerca de nosotros
 
+---
+title: Street Cred
+class: segue dataday nobackground
+
+---
+title: Street Cred
+
+<div class="col-md-12">
+	<img class="img-responsive" src="images/profile/arturo.jpg" alt="arturo" style="width:100px">
+	<h3>Arturo Cárdenas</h3>
+	<p style="font-size:16px">Auto-proclamado “Data Science Late Bloomer”, cuenta con más de nueve años de experiencia combinando supply chain y analytics. <br><br>
+	En su proyecto más reciente colaboró con Procter & Gamble en Toronto, Canada para el equipo que atiende a Walmart mejorando el desempeño de cadena de suministro por medio de la analítica de datos. Arturo estudió Ingeniería Mecánica en el ITESM y cuenta con estudios de posgrado en McGill University.</p>
+</div>
+---
+title: Stret Cred (Cont...)
+subtitle: Algunas empresas en las que he trabajado...
+
+<div class="row centered">
+<img src="images/profile/companies/12.png" alt="l" style="width:150px">
+<img src="images/profile/companies/13.png" alt="m" style="width:150px">
+<img src="images/profile/companies/14.png" alt="n" style="width:150px">
+<img src="images/profile/companies/15.png" alt="o" style="width:150px">
+<img src="images/profile/companies/16.png" alt="p" style="width:150px">
+<img src="images/profile/companies/17.png" alt="q" style="width:150px">
+<img src="images/profile/companies/18.png" alt="r" style="width:150px">
+<img src="images/profile/companies/19.png" alt="s" style="width:150px">
+<img src="images/profile/companies/20.png" alt="t" style="width:150px">
+<img src="images/profile/companies/21.png" alt="u" style="width:150px">
+<img src="images/profile/companies/22.png" alt="v" style="width:150px">
+<img src="images/profile/companies/23.png" alt="x" style="width:150px">
+<img src="images/profile/companies/24.png" alt="y" style="width:150px">
+</div>
 ---
 
 title: Innovación en TI
@@ -413,58 +444,7 @@ Source:
 <br>
 <a href="http://www.tcs.com/SiteCollectionDocuments/White%20Papers/Machine-Learning-Analytics-in-Manufacturing-0714-1.pdf" target="_blank">Tata Consultancy Services, Using Big Data for Machine Learning Analytics in Manufacturing – TCS</a>
 </section></aside>
----
-title: Tipos de Proyectos
-class: segue dataday nobackground
----
-title: Tipos de Proyectos
 
-<div class="col-md-1">
-</div>
-<div class="col-md-10">
-<img class="img-responsive" src="images/tipo_proyectos.png" alt="BD Landscae">
-</div>
-<div class="col-md-1">
-</div>
----
-
-title: Acerca de mi
-class: segue dataday nobackground
----
-title: Acerca de mi
-
-<div class="col-md-12">
-	<img class="img-responsive" src="images/profile/arturo.jpg" alt="arturo" style="width:100px">
-	<h3>Arturo Cárdenas</h3>
-	<p style="font-size:16px">Auto-proclamado “Data Science Late Bloomer”, cuenta con más de nueve años de experiencia combinando supply chain y analytics. <br><br>
-	En su proyecto más reciente colaboró con Procter & Gamble en Toronto, Canada para el equipo que atiende a Walmart mejorando el desempeño de cadena de suministro por medio de la analítica de datos. Arturo estudió Ingeniería Mecánica en el ITESM y cuenta con estudios de posgrado en McGill University.</p>
-</div>
----
-title: Empresas con las que hemos trabajado
-
-<div class="row centered">
-<img src="images/profile/companies/1.png" alt="a" style="width:150px">
-<img src="images/profile/companies/2.png" alt="b" style="width:150px">
-<img src="images/profile/companies/3.png" alt="c" style="width:150px">
-<img src="images/profile/companies/4.png" alt="d" style="width:150px">
-<img src="images/profile/companies/5.png" alt="e" style="width:150px">
-<img src="images/profile/companies/6.png" alt="f" style="width:150px">
-<img src="images/profile/companies/7.png" alt="g" style="width:150px">
-<img src="images/profile/companies/8.png" alt="h" style="width:150px">
-<img src="images/profile/companies/9.png" alt="i" style="width:150px">
-<img src="images/profile/companies/10.png" alt="j" style="width:150px">
-<img src="images/profile/companies/11.png" alt="k" style="width:150px">
-<img src="images/profile/companies/12.png" alt="l" style="width:150px">
-<img src="images/profile/companies/13.png" alt="m" style="width:150px">
-<img src="images/profile/companies/14.png" alt="n" style="width:150px">
-<img src="images/profile/companies/15.png" alt="o" style="width:150px">
-<img src="images/profile/companies/16.png" alt="p" style="width:150px">
-<img src="images/profile/companies/17.png" alt="q" style="width:150px">
-<img src="images/profile/companies/18.png" alt="r" style="width:150px">
-<img src="images/profile/companies/19.png" alt="s" style="width:150px">
-<img src="images/profile/companies/20.png" alt="t" style="width:150px">
-<img src="images/profile/companies/21.png" alt="t" style="width:150px">
-</div>
 ---
 
 title: Data Science
